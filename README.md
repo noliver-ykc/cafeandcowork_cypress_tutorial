@@ -13,6 +13,12 @@ npm run cypress-open
 6. Click any test to watch it run in your browser!
 7. Use command + C to quit cypress or simply exit the terminal
 
+# Havent checked out the actual app yet?
+1. Install [nodejs](https://nodejs.org/en/)
+2. Install deps `npm install`
+3. Run `npm start`
+4. Open [localhost:3000](http://localhost:3000)
+
 # Cafe and Cowork
 Find places to work. Open and collaborative. Pull requests welcome!
 
