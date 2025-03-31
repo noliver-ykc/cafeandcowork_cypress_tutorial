@@ -6,7 +6,7 @@ npm ci
 ```
 3. Once everything is installed, run 
 ```
-npm run cypress-app-open
+npm run cypress-open
 ```
 4. Click E2E testing
 5. Click Start E2E Testing in Chrome
