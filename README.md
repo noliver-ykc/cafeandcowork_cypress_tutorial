@@ -1,3 +1,18 @@
+# Cypress for Cafe and Cowork
+1. [Fork the repo](fork)
+2. Open on your device and run
+```
+npm ci
+```
+3. Once everything is installed, run 
+```
+npm run cypress-app-open
+```
+4. Click E2E testing
+5. Click Start E2E Testing in Chrome
+6. Click any test to watch it run in your browser!
+7. Use command + C to quit cypress or simply exit the terminal
+
 # Cafe and Cowork
 Find places to work. Open and collaborative. Pull requests welcome!
 
