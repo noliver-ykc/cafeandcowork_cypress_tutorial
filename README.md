@@ -13,6 +13,11 @@ npm run cypress-open
 6. Click any test to watch it run in your browser!
 7. Use command + C to quit cypress or simply exit the terminal
 
+# Download these two plugins for easy viewing
+1. Cucumber
+2. Cucumber (Gherkin) Full Support
+3. Prettier (if you dont already have it)
+
 # Havent checked out the actual app yet?
 1. Install [nodejs](https://nodejs.org/en/)
 2. Install deps `npm install`
