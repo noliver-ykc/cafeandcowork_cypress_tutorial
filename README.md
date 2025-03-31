@@ -6,12 +6,27 @@ npm ci
 ```
 3. Once everything is installed, run 
 ```
-npm run cypress-open
+npx cypress open
 ```
 4. Click E2E testing
 5. Click Start E2E Testing in Chrome
 6. Click any test to watch it run in your browser!
 7. Use command + C to quit cypress or simply exit the terminal
+
+# Different ways to test your code
+1. The following will open the GUI
+```
+npx cypress open
+```
+2. CLI testing is done with
+```
+npx cypress run
+```
+3. Run a specific test in CLI use
+```
+npx cypress run --env grep=@target
+```
+   
 
 # Download these two plugins for easy viewing
 1. Cucumber
