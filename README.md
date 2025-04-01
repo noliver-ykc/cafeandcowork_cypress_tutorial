@@ -12,6 +12,7 @@ npx cypress open
 5. Click Start E2E Testing in Chrome
 6. Click any test to watch it run in your browser!
 7. Use command + C to quit cypress or simply exit the terminal
+8. The actual local host must be live in order to work so scroll down to Havent checked out the actual app yet? and make sure youve done npm start
 
 # Different ways to test your code
 1. The following will open the GUI
