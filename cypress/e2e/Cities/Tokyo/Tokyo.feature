@@ -1,4 +1,2 @@
 Feature: Tokyo
-  # 1 Failing Test
-  @ignore
-  Scenario: poool -Espresso&Work-
+  # Create a test that checks the address, phone number and over all review of a cafe in tokyo
